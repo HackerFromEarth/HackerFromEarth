@@ -12,8 +12,8 @@ My journey in cybersecurity has led me to develop a passion, and I am now eager 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Threat Hunting with Elastic stack          | <a href="https://academy.hackthebox.com/achievement/badge/6c325ba0-c844-11ee-891c-bea50ffe6cb4">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Threat Hunting with Elastic Stack          | <a href="https://academy.hackthebox.com/achievement/badge/6c325ba0-c844-11ee-891c-bea50ffe6cb4">Threat Hunt module</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://academy.hackthebox.com/achievement/badge/b3c48605-3f22-11ef-b18d-bea50ffe6cb4">Network Traffic Analysis module</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|

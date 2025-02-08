@@ -28,6 +28,7 @@ My journey in cybersecurity has led me to develop a passion, and I am now eager 
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-F8B7D1?style=for-the-badge&logo=snort&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -39,7 +40,7 @@ My journey in cybersecurity has led me to develop a passion, and I am now eager 
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Event%20Tracing%20for%20Windows-FF5733?style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Event%20Tracing%20for%20Windows-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
 ## Certifications

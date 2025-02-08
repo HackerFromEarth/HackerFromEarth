@@ -17,9 +17,9 @@ My journey in cybersecurity has led me to develop a passion, and I am now eager 
 | Threat Hunting with Elastic Stack          | <a href="https://academy.hackthebox.com/achievement/badge/6c325ba0-c844-11ee-891c-bea50ffe6cb4">Threat Hunt module</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://academy.hackthebox.com/achievement/badge/b3c48605-3f22-11ef-b18d-bea50ffe6cb4">Network Traffic Analysis module</a>|
 | Digital Forensics and Incident Response         | <a href="https://badgr.com/public/assertions/RyFcYdz6SgW-zqBFK9DMug">DFIR Lab</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Malware Analysis      | <a href="https://academy.hackthebox.com/achievement/badge/ddfb8b3d-5ca7-11ef-864f-bea50ffe6cb4">Malware Analysis module</a>|
+| Detecting Windows Attacks with Splunk                  | <a href="https://academy.hackthebox.com/achievement/badge/fbccb269-a4c7-11ef-864f-bea50ffe6cb4">Splunk module</a>|
+| Working with IDS/IPS | <a href="https://academy.hackthebox.com/achievement/badge/abd52bec-5109-11ef-864f-bea50ffe6cb4">IDS/IPS module</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]

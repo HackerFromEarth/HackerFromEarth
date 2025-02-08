@@ -16,7 +16,7 @@ My journey in cybersecurity has led me to develop a passion, and I am now eager 
 |-----------------------------------------------|----------------------------|
 | Threat Hunting with Elastic Stack          | <a href="https://academy.hackthebox.com/achievement/badge/6c325ba0-c844-11ee-891c-bea50ffe6cb4">Threat Hunt module</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://academy.hackthebox.com/achievement/badge/b3c48605-3f22-11ef-b18d-bea50ffe6cb4">Network Traffic Analysis module</a>|
-| Digital Forensics and Incident Response         | <a href="https://badgr.com/public/assertions/RyFcYdz6SgW-zqBFK9DMug">DFIR Lab</a>|
+| Windows Event Logs         | <a href="https://academy.hackthebox.com/achievement/badge/69546fc6-bf6a-11ee-a670-bea50ffe6cb4">Windows Event Log module</a>|
 | Malware Analysis      | <a href="https://academy.hackthebox.com/achievement/badge/ddfb8b3d-5ca7-11ef-864f-bea50ffe6cb4">Malware Analysis module</a>|
 | Detecting Windows Attacks with Splunk                  | <a href="https://academy.hackthebox.com/achievement/badge/fbccb269-a4c7-11ef-864f-bea50ffe6cb4">Splunk module</a>|
 | Working with IDS/IPS | <a href="https://academy.hackthebox.com/achievement/badge/abd52bec-5109-11ef-864f-bea50ffe6cb4">IDS/IPS module</a>|

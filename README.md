@@ -6,7 +6,7 @@ I am a full-time Security Operations Center (SOC) Analyst with a profound intere
 
 ## Objective
 
-My journey in cybersecurity has led me to develop a passion, and I am now eager to learn more in this field.
+My journey in cybersecurity has led me to develop a passion, and I am now eager to learn more in this field, leading me continuously hone my skills.
 
 ## Skills
 

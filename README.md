@@ -1,4 +1,4 @@
-# Hello, I'm Brendan
+# Hello, I'm Brendan (Bren, HakcerFromEarth)
 <a href="www.linkedin.com/in/hackerfromearth"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
@@ -14,7 +14,7 @@ My journey in cybersecurity has led me to develop a passion, and I am now eager 
 |-----------------------------------------------|----------------------------|
 | Threat Hunting with Elastic Stack          | <a href="https://academy.hackthebox.com/achievement/badge/6c325ba0-c844-11ee-891c-bea50ffe6cb4">Threat Hunt module</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://academy.hackthebox.com/achievement/badge/b3c48605-3f22-11ef-b18d-bea50ffe6cb4">Network Traffic Analysis module</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Digital Forensics and Incident Response         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|

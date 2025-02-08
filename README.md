@@ -1,21 +1,18 @@
 # Hello, I'm Brendan
 <a href="www.linkedin.com/in/hackerfromearth"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a full-time Security Operations Center (SOC) Analyst with a profound interest in cyber security and a dedication to solving complex problems. Outside of work I like to spend some additional times sharpening and developing my skills in cyber, along with other  activities like spending time with friends and family.
+I am a full-time Security Operations Center (SOC) Analyst with a profound interest in cyber security and a dedication to solving complex problems. Outside of work, I dedicate time to further developing my IT skills, along with engaging in activities such as spending time with friends and family, playing video games, and watching sports.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in cybersecurity has led me to develop a passion, and I am now eager to learn more in this field.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Threat Hunting with Elastic stack          | <a href="https://academy.hackthebox.com/achievement/badge/6c325ba0-c844-11ee-891c-bea50ffe6cb4">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|

@@ -1,5 +1,7 @@
 # Hello, I'm Brendan (Bren, HackerFromEarth)
 <a href="www.linkedin.com/in/hackerfromearth"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://app.hackthebox.com/profile/1774309"><img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" /></a>
+<a href="https://tryhackme.com/p/HackerFromEarth"><img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
 
 
 I am a full-time Security Operations Center (SOC) Analyst with a profound interest in cyber security and a dedication to solving complex problems. Outside of work, I dedicate time to further developing my IT skills, along with engaging in activities such as spending time with friends and family, playing video games, and watching sports.

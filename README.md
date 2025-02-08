@@ -35,10 +35,11 @@ My journey in cybersecurity has led me to develop a passion, and I am now eager 
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
-### SIEM
+### SIEM / Log Analysis
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Event%20Tracer%20for%20Windows-FF5733?style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
 ## Certifications

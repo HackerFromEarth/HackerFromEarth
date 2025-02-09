@@ -53,5 +53,4 @@ My journey in cybersecurity has led me to develop a passion, and I am now eager 
 ## Projects
 - DFIR Lab - ALPHV Ransomware
 - DFIR Lab - BlueSky Ransomware
-- Installed Kali Purple with Elastic SIEM
 - <a href="https://github.com/HackerFromEarth/Building-a-small-SOHO-network/tree/main">Building a small network in Packet Tracer</a>

@@ -45,9 +45,9 @@ My journey in cybersecurity has led me to develop a passion, and I am now eager 
 
 ## Certifications
 <div>
-<a href="https://www.credly.com/badges/c7655316-d9a7-4d6f-b135-3805c213db0e/public_url"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    
-<a href="https://www.credly.com/badges/3c37d247-dbe9-4ba6-b51d-6adae6f991d1/linked_in_profile"><img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <a href="https://www.credly.com/badges/c7655316-d9a7-4d6f-b135-3805c213db0e/public_url"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <a href="https://www.credly.com/badges/3c37d247-dbe9-4ba6-b51d-6adae6f991d1/linked_in_profile"><img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <a href="https://www.credly.com/badges/bfbfbf44-927f-4e6f-ba69-ac990adfb1db"><img src="https://img.shields.io/badge/-Blue%20Team%20Level%201-0070FF?&style=for-the-badge&logo=&logoColor=white" />
 </div>
 
 ## Projects

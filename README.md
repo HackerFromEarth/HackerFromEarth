@@ -51,5 +51,8 @@ My journey in cybersecurity has led me to develop a passion, and I am now eager 
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- DFIR Lab - ALPHV Ransomware
+- DFIR Lab - BlueSky Ransomware
+- Building a small network in Packet Tracer
+- Malware testing
+- Installed Kali Purple with Elastic SIEM

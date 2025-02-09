@@ -51,6 +51,6 @@ My journey in cybersecurity has led me to develop a passion, and I am now eager 
 </div>
 
 ## Projects
-- <a href="https://1drv.ms/w/c/0c418be69386e018/ERjghpPmi0EggAzRKQAAAAABBZrgYYZJja5pDE_lqabBFA?e=M4Ro9e">DFIR Lab - ALPHV Ransomware</a>
+- <a href="https://1drv.ms/w/c/0c418be69386e018/ERjghpPmi0EggAzRKQAAAAABBZrgYYZJja5pDE_lqabBFA?e=PFE1WG">DFIR Lab - ALPHV Ransomware</a>
 - <a href="https://badgr.com/public/assertions/7mL626vWScmPb7fgppeQIA">DFIR Lab - BlueSky Ransomware</a>
 - <a href="https://github.com/HackerFromEarth/Building-a-small-SOHO-network/tree/main">Building a small network in Packet Tracer</a>

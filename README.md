@@ -51,6 +51,7 @@ My journey in cybersecurity has led me to develop a passion, and I am now eager 
 </div>
 
 ## Projects
+- <a href="https://github.com/HackerFromEarth/Home-Lab/blob/main/README.md">Home Lab</a>
 - <a href="https://1drv.ms/w/c/0c418be69386e018/ERjghpPmi0EggAzRKQAAAAABBZrgYYZJja5pDE_lqabBFA?e=PFE1WG">DFIR Lab - ALPHV Ransomware</a>
 - <a href="https://badgr.com/public/assertions/7mL626vWScmPb7fgppeQIA">DFIR Lab - BlueSky Ransomware</a>
 - <a href="https://1drv.ms/w/c/0c418be69386e018/EcRSwRbswUxPkUd3DVaikKYBWrPTJ8-Vjz-lJQYDL1Q2Ew?e=iIEdfe">HTB Lab - Brutus</a>

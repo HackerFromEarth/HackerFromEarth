@@ -12,6 +12,7 @@ I am a full-time Security Operations Center (SOC) Analyst with a profound intere
 - <a href="https://1drv.ms/w/c/0c418be69386e018/ERjghpPmi0EggAzRKQAAAAABBZrgYYZJja5pDE_lqabBFA?e=PFE1WG">DFIR Lab - ALPHV Ransomware</a>
 - <a href="https://badgr.com/public/assertions/7mL626vWScmPb7fgppeQIA">DFIR Lab - BlueSky Ransomware</a>
 - <a href="https://1drv.ms/w/c/0c418be69386e018/EcRSwRbswUxPkUd3DVaikKYBWrPTJ8-Vjz-lJQYDL1Q2Ew?e=iIEdfe">HTB Lab - Brutus</a>
+- <a href="https://github.com/HackerFromEarth/Kioptrix-Lab">Kioptrix Lab</a>
 
 
 ## Certifications

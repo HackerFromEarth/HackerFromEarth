@@ -10,7 +10,7 @@ I am a full-time Security Analyst with a profound interest in cybersecurity and 
 ## Projects
 - <a href="https://github.com/HackerFromEarth/Home-Lab/blob/main/README.md">Home Lab</a>
 - <a href="https://1drv.ms/w/c/0c418be69386e018/ERjghpPmi0EggAzRKQAAAAABBZrgYYZJja5pDE_lqabBFA?e=PFE1WG">DFIR Lab - ALPHV Ransomware</a>
-- <a href="https://badgr.com/public/assertions/7mL626vWScmPb7fgppeQIA">DFIR Lab - BlueSky Ransomware</a>
+- <a href="https://github.com/HackerFromEarth/PNPT-Capstones">PNPT-Capstones</a>
 - <a href="https://1drv.ms/w/c/0c418be69386e018/EcRSwRbswUxPkUd3DVaikKYBWrPTJ8-Vjz-lJQYDL1Q2Ew?e=iIEdfe">HTB Lab - Brutus</a>
 - <a href="https://github.com/HackerFromEarth/Kioptrix-Lab">Kioptrix Lab</a>
 

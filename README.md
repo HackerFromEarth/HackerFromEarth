@@ -1,6 +1,6 @@
 # Hello, I'm Brendan (Bren, HackerFromEarth)
 <a href="https://www.linkedin.com/in/brendanmejia"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://app.hackthebox.com/profile/1774309"><img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" /></a>
+<a href="https://app.hackthebox.com/profile/2418893"><img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" /></a>
 <a href="https://tryhackme.com/p/HackerFromEarth"><img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
 
 

@@ -17,12 +17,12 @@ I am a full-time Security Analyst with a profound interest in cybersecurity and 
 
 ## Certifications
 <div>
-    <a href="https://www.credly.com/badges/c7655316-d9a7-4d6f-b135-3805c213db0e/public_url"><img src="https://img.shields.io/badge/-Security%2B-06a4cb?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-    <a href="https://www.credly.com/badges/3c37d247-dbe9-4ba6-b51d-6adae6f991d1/linked_in_profile"><img src="https://img.shields.io/badge/-CySA%2B-0a96e6?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+    <a href="https://www.credly.com/badges/c7655316-d9a7-4d6f-b135-3805c213db0e/public_url"><img src="https://img.shields.io/badge/-Security%2B-b22222?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+    <a href="https://www.credly.com/badges/3c37d247-dbe9-4ba6-b51d-6adae6f991d1/linked_in_profile"><img src="https://img.shields.io/badge/-CySA%2B-b22222?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
     <a href="https://www.credly.com/badges/bfbfbf44-927f-4e6f-ba69-ac990adfb1db"><img src="https://img.shields.io/badge/-Blue%20Team%20Level%201-0070FF?&style=for-the-badge&logo=&logoColor=white" /></a>
     <a href="https://www.credly.com/badges/2b9de00e-2281-49cd-aae1-3dcf20ff96d6"><img src="https://img.shields.io/badge/-CDSA-0965bc?&style=for-the-badge&logo=hackthebox&logoColor=white" /></a>
     <a href="https://www.credly.com/earner/earned/badge/b34f3fbc-5936-4745-acb7-351ac8d4e4e5"><img src="https://img.shields.io/badge/-Security%20Analyst%20Level%201-339cff?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
-    <a href="https://learn.microsoft.com/api/credentials/share/en-us/HackerFromEarth/4DE190FA201F2BA3?sharingId=5C482F9A9A3793AB"><img src="https://img.shields.io/badge/-Microsoft%20SC--200-ffbb00?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a></a>
+    <a href="https://learn.microsoft.com/api/credentials/share/en-us/HackerFromEarth/4DE190FA201F2BA3?sharingId=5C482F9A9A3793AB"><img src="https://img.shields.io/badge/-Microsoft%20SC--200-00a1f1?style=for-the-badge&logoColor=white" /></a></a>
 </div>
 
 
@@ -45,7 +45,6 @@ I am a full-time Security Analyst with a profound interest in cybersecurity and 
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Snort-F8B7D1?style=for-the-badge&logo=snort&logoColor=white" />
 </div>
 
 ### Endpoint

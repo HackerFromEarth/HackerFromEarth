@@ -14,6 +14,7 @@ I am a full-time Security Analyst with a profound interest in cybersecurity and 
 - <a href="https://1drv.ms/w/c/0c418be69386e018/EcRSwRbswUxPkUd3DVaikKYBWrPTJ8-Vjz-lJQYDL1Q2Ew?e=iIEdfe">HTB Lab - Brutus</a>
 - <a href="https://github.com/HackerFromEarth/Kioptrix-Lab">Kioptrix Lab</a>
 - <a href="https://github.com/HackerFromEarth/UNION">UNION (SQL Injection introduction)</a>
+- <a href="https://political-block-6b8.notion.site/Attacktive-Directory-32657d183bb580929580f571ce3ce207?source=copy_link">THM Lab - Attacktive Directory</a>
 
 
 ## Certifications

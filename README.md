@@ -23,6 +23,7 @@ I am a full-time Security Analyst with a profound interest in cybersecurity and 
     <a href="https://www.credly.com/badges/2b9de00e-2281-49cd-aae1-3dcf20ff96d6"><img src="https://img.shields.io/badge/-CDSA-0965bc?&style=for-the-badge&logo=hackthebox&logoColor=white" /></a>
     <a href="https://www.credly.com/earner/earned/badge/b34f3fbc-5936-4745-acb7-351ac8d4e4e5"><img src="https://img.shields.io/badge/-Security%20Analyst%20Level%201-339cff?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
     <a href="https://learn.microsoft.com/api/credentials/share/en-us/HackerFromEarth/4DE190FA201F2BA3?sharingId=5C482F9A9A3793AB"><img src="https://img.shields.io/badge/-Microsoft%20SC--200-00a1f1?style=for-the-badge&logoColor=white" /></a></a>
+    <a href="https://certified.tcm-sec.com/d1f04e3b-661d-4009-a9f1-883185ccbbe3#acc.r19CeAIf"><img src="https://img.shields.io/badge/-Practical%20Network%20Penetration%20Tester-red?style=flat-square&logoColor=white" /></a>
 </div>
 
 
